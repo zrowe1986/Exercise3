@@ -1,0 +1,17 @@
+C:\Users\Curtis McEwen\Documents\GitHub\VBExercises\Exercise3\Exercise3\obj\Debug\net10.0-windows\Exercise3.mainForm.resources
+C:\Users\Curtis McEwen\Documents\GitHub\VBExercises\Exercise3\Exercise3\obj\Debug\net10.0-windows\Exercise3.vbproj.GenerateResource.cache
+C:\Users\Curtis McEwen\Documents\GitHub\VBExercises\Exercise3\Exercise3\obj\Debug\net10.0-windows\Exercise3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Curtis McEwen\Documents\GitHub\VBExercises\Exercise3\Exercise3\obj\Debug\net10.0-windows\Exercise3.AssemblyInfoInputs.cache
+C:\Users\Curtis McEwen\Documents\GitHub\VBExercises\Exercise3\Exercise3\obj\Debug\net10.0-windows\Exercise3.AssemblyInfo.vb
+C:\Users\Curtis McEwen\Documents\GitHub\VBExercises\Exercise3\Exercise3\obj\Debug\net10.0-windows\Exercise3.vbproj.CoreCompileInputs.cache
+C:\Users\Curtis McEwen\Documents\GitHub\VBExercises\Exercise3\Exercise3\bin\Debug\net10.0-windows\Exercise3.exe
+C:\Users\Curtis McEwen\Documents\GitHub\VBExercises\Exercise3\Exercise3\bin\Debug\net10.0-windows\Exercise3.deps.json
+C:\Users\Curtis McEwen\Documents\GitHub\VBExercises\Exercise3\Exercise3\bin\Debug\net10.0-windows\Exercise3.runtimeconfig.json
+C:\Users\Curtis McEwen\Documents\GitHub\VBExercises\Exercise3\Exercise3\bin\Debug\net10.0-windows\Exercise3.dll
+C:\Users\Curtis McEwen\Documents\GitHub\VBExercises\Exercise3\Exercise3\bin\Debug\net10.0-windows\Exercise3.pdb
+C:\Users\Curtis McEwen\Documents\GitHub\VBExercises\Exercise3\Exercise3\obj\Debug\net10.0-windows\Exercise3.dll
+C:\Users\Curtis McEwen\Documents\GitHub\VBExercises\Exercise3\Exercise3\obj\Debug\net10.0-windows\refint\Exercise3.dll
+C:\Users\Curtis McEwen\Documents\GitHub\VBExercises\Exercise3\Exercise3\obj\Debug\net10.0-windows\Exercise3.pdb
+C:\Users\Curtis McEwen\Documents\GitHub\VBExercises\Exercise3\Exercise3\obj\Debug\net10.0-windows\Exercise3.genruntimeconfig.cache
+C:\Users\Curtis McEwen\Documents\GitHub\VBExercises\Exercise3\Exercise3\obj\Debug\net10.0-windows\ref\Exercise3.dll
+C:\Users\Curtis McEwen\Documents\GitHub\VBExercises\Exercise3\Exercise3\obj\Debug\net10.0-windows\Exercise3.vbproj.Up2Date
